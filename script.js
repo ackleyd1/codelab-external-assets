@@ -1,1 +1,1 @@
-document.getElementById('david').onclick = function() {alert('blarg!')}
+document.getElementById('google').onclick = function() {window.location = "https://www.google.com/";}
